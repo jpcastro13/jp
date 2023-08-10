@@ -1,3 +1,5 @@
 prueba de conexion a jenkins 
 
-comprobar si funciona el jobs 
+comprobar si funciona el jobs
+
+ya comprabamos que funciona  que hacemos ahora ? 
