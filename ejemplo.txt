@@ -5,3 +5,5 @@ comprobar si funciona el jobs
 ya comprabamos que funciona  que hacemos ahora ? 
 
 prueba de monitoreo
+
+prueba de monitoreo hacia correo
